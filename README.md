@@ -26,9 +26,12 @@ To setup the database for enviroments like production, development and test, you
 - Development Mode: `npm run start:dev`
 - Production Mode: `npm run start:prod`
 
+## Test
+- `npm run test`
+
 ### TODO
 - Add Presenter for Models.
-- Tests
+- More Tests
 
 ### Endpoints
 
