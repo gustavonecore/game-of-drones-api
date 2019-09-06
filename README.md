@@ -1,6 +1,4 @@
 # Game of Drones API
-This project responds to UruIT's challenge.
-
 This is a REST API that provides endpoints to manage games and players.
 
 ## Requirements
